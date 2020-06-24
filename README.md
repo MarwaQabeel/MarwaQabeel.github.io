@@ -2,7 +2,16 @@
 
 This page contains non-academic material including (certificates, continuing or professional education courses, MOOCs) relevant to OMSCS program and the required specialization (Machine Learning specialization) I’m applying for, I’ve organized the certificates according to the educational platform. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### Coursera Specializations
+
+
+ | **[Data Structures and Algorithms Specialization]()** | Content Cell  |
+
+**2. [Introduction to Discrete Mathematics for Computer Science Specialization]()** 
+
+
 
 ### Udacity Nanodegree Programs
 
