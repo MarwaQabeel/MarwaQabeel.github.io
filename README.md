@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Computer Science courses transcripts 
 
-You can use the [editor on GitHub](https://github.com/MarwaQabeel/MarwaQabeel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page contains non-academic material including (certificates, continuing or professional education courses, MOOCs) relevant to OMSCS program and the required specialization (Machine Learning specialization) I’m applying for, I’ve organized the certificates according to the educational platform. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
