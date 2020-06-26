@@ -26,9 +26,6 @@ This page contains non-academic material including (certificates, continuing or 
 
 ## <a name="head1">Heading One</a>
 
-<a name="tasks">
-   my tasks
-</a>
 
 
 
