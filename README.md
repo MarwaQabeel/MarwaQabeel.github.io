@@ -9,7 +9,7 @@ This page contains non-academic material including (certificates, continuing or 
 
  | **[Data Structures and Algorithms Specialization]()** | Content Cell  |
 
-**2. [Introduction to Discrete Mathematics for Computer Science Specialization]()** 
+ | **2. [Introduction to Discrete Mathematics for Computer Science Specialization]()** 
 
 
 
@@ -23,6 +23,12 @@ This page contains non-academic material including (certificates, continuing or 
 
 **4. [Data Analyst Nanodegree]()**
 
+
+## <a name="head1">Heading One</a>
+
+<a name="tasks">
+   my tasks
+</a>
 
 
 
