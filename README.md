@@ -23,13 +23,11 @@ This page contains non-academic material including (certificates, continuing or 
 
 | <p>2. Introduction to Discrete Mathematics for Computer Science Specialization<br> _"University of California San Diego"_ </p> | [Certificate](https://coursera.org/share/576f499c1ff93fa479f077e604ac1e2b) |
 |--------------------------------------------------|----------------------------------------------------------------------------|
-| **Algorithmic Toolbox** | <p>Grade Achieved: 97.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/BNGXGH4SB4ZN)* </p> |
-| **Data Structures** | <p>Grade Achieved: 82.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/Z2VVAQ5WPJZQ)* </p> |
-| **Algorithms on Graphs** | <p>Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/K7QBHEPHCM7P)* </p> |
-| **Algorithms on Strings** | <p>Grade Achieved: 85.1%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/E9N694PZNM2E)* </p> |
-| **Advanced Algorithms and Complexity** | <p>Grade Achieved: 92.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/3KK8LEYMFD2Q)* </p> |
-| **Genome Assembly Programming Challenge** | <p>Grade Achieved: 84.6%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/WGYQMSL2SULZ)* </p> |
-| **Algorithmic Toolbox** | <p>Grade Achieved: 97.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/BNGXGH4SB4ZN)* </p> |
+| **Mathematical Thinking in Computer Science** | Grade Achieved: 99.5%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/9CK4CKKK7533)* |
+| **Combinatorics and Probability** | Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/YHA2N6DFUN9R)* |
+| **Introduction to Graph Theory** | Grade Achieved: 98.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/KLWJEDV2V4DT)* |
+| **Number Theory and Cryptography** | Grade Achieved: 99.8%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/7BQJXHPLJ9F2)* |
+| **Delivery Problem** | Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/C4UEM9BETDDV)* |
 
 
 ### Udacity Nanodegree Programs
