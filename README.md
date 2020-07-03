@@ -8,7 +8,7 @@ This page contains non-academic material including (certificates, continuing or 
 
 
 
-|1. <center>Data Structures and Algorithms Specialization<br> _"University of California San Diego"_</center>|<a href="https://coursera.org/share/3d915db4303a0b4b5b54d313df7f2eb4" target="_blank"><center>Certificate</center></a>|
+|<center>1. Data Structures and Algorithms Specialization<br>"University of California San Diego"</center>|<a href="https://coursera.org/share/3d915db4303a0b4b5b54d313df7f2eb4" target="_blank"><center>Certificate</center></a>|
 |--------------------------------------------------|----------------------------------------------------------------------------|
 | **Algorithmic Toolbox** | Grade Achieved: 97.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/BNGXGH4SB4ZN)* |
 | **Data Structures** | Grade Achieved: 82.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/Z2VVAQ5WPJZQ)* |
