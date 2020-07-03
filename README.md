@@ -18,9 +18,8 @@ This page contains non-academic material including (certificates, continuing or 
 | **Genome Assembly Programming Challenge** | Grade Achieved: 84.6%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/WGYQMSL2SULZ)* |
 | **Algorithmic Toolbox** | Grade Achieved: 97.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/BNGXGH4SB4ZN)* |
 
-<br>
 
-|2. Introduction to Discrete Mathematics for Computer Science Specialization<br> _"University of California San Diego"_|[Certificate](https://coursera.org/share/576f499c1ff93fa479f077e604ac1e2b)|
+|<center>2. Introduction to Discrete Mathematics for Computer Science Specialization<br>"University of California San Diego"</center>|[Certificate](https://coursera.org/share/576f499c1ff93fa479f077e604ac1e2b)|
 |--------------------------------------------------|----------------------------------------------------------------------------|
 | **Mathematical Thinking in Computer Science** | Grade Achieved: 99.5%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/9CK4CKKK7533)* |
 | **Combinatorics and Probability** | Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/YHA2N6DFUN9R)* |
