@@ -4,7 +4,7 @@ This page contains non-academic material including (certificates, continuing or 
 
 
 
-### Coursera Specializations
+- ### Coursera Specializations
 
 
 
@@ -32,9 +32,9 @@ This page contains non-academic material including (certificates, continuing or 
 
 
 --------------------------------------------------
+<br>
 
-
-### Udacity Nanodegree Programs
+- ### Udacity Nanodegree Programs
 
 **1. [Data Structures and Algorithms Nanodegree](https://github.com/MarwaQabeel/Data-Structures-and-Algorithms-Nanodegree)**
 
@@ -46,6 +46,12 @@ This page contains non-academic material including (certificates, continuing or 
 
 
 
+|--------------------------------------------------|----------------------------------------------------------------------------|
+| **Data Structures and Algorithms Nanodegree** |[View Projects & Certificate](https://github.com/MarwaQabeel/Data-Structures-and-Algorithms-Nanodegree)|
+| **Combinatorics and Probability** | Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/YHA2N6DFUN9R)* |
+| **Introduction to Graph Theory** | Grade Achieved: 98.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/KLWJEDV2V4DT)* |
+| **Number Theory and Cryptography** | Grade Achieved: 99.8%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/7BQJXHPLJ9F2)* |
+| **Delivery Problem** | Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/C4UEM9BETDDV)* |
 
 
 
