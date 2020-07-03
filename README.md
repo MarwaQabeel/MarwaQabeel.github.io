@@ -10,7 +10,7 @@ This page contains non-academic material including (certificates, continuing or 
 
 |<center>1. Data Structures and Algorithms Specialization<br>"University of California San Diego"</center>|<a href="https://coursera.org/share/3d915db4303a0b4b5b54d313df7f2eb4" target="_blank"><center>Certificate</center></a>|
 |--------------------------------------------------|----------------------------------------------------------------------------|
-| **Algorithmic Toolbox** |<center>Grade Achieved: 97.4%<br>[View Certificate](https://www.coursera.org/account/accomplishments/certificate/BNGXGH4SB4ZN)</center>|
+| **Algorithmic Toolbox** |Grade Achieved: 97.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/BNGXGH4SB4ZN)*|
 | **Data Structures** | Grade Achieved: 82.4%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/Z2VVAQ5WPJZQ)* |
 | **Algorithms on Graphs** | Grade Achieved: 100.0%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/K7QBHEPHCM7P)* |
 | **Algorithms on Strings** | Grade Achieved: 85.1%<br>*[View Certificate](https://www.coursera.org/account/accomplishments/certificate/E9N694PZNM2E)* |
