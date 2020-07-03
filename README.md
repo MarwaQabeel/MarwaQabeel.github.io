@@ -36,11 +36,11 @@ This page contains non-academic material including (certificates, continuing or 
 
 ### Udacity Nanodegree Programs
 
-**1. [Data Structures and Algorithms Nanodegree](https://github.com/MarwaQabeel/Data-Structures-and-Algorithms-Nanodegree) **
+**1. [Data Structures and Algorithms Nanodegree](https://github.com/MarwaQabeel/Data-Structures-and-Algorithms-Nanodegree)**
 
-**2. [Deep Learning Nanodegree](https://github.com/MarwaQabeel/Udacity-Deep-Learning-Nanodegree) **
+**2. [Deep Learning Nanodegree](https://github.com/MarwaQabeel/Udacity-Deep-Learning-Nanodegree)**
 
-**3. [Computer Vision Nanodgree](https://github.com/MarwaQabeel/Udacity-Computer-Vision-Nanodegree) **
+**3. [Computer Vision Nanodgree](https://github.com/MarwaQabeel/Udacity-Computer-Vision-Nanodegree)**
 
 **4. [Data Analyst Nanodegree](https://github.com/MarwaQabeel/Udacity-Data-Analyst-Nanodegree)**
 
