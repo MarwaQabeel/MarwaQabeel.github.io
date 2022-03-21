@@ -35,4 +35,5 @@
 |**3. Computer Vision Nanodgree** |[View Projects & Certificate](https://github.com/MarwaQabeel/Udacity-Computer-Vision-Nanodegree)|
 |**4. Data Analyst Nanodegree** |[View Projects & Certificate](https://github.com/MarwaQabeel/Udacity-Data-Analyst-Nanodegree)|
 |**5. Data Foundations Nanodegree** |[View Projects & Certificate](https://github.com/MarwaQabeel/Udacity-Data-Foundations-Nanodegree)|
+|**6. Intro to Self-Driving Cars Nanodegree** |[View Certificate](https://confirm.udacity.com/YQSMPUQ2)|
 
